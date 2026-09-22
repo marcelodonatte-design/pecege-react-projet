@@ -9,7 +9,7 @@ function SistemaRotas() {
   return (
     <Routes>
       <Route path="/" element={<MainContent />} />
-      <Route path="/sobre" element={<Sobre />} />
+      <Route path="/sobre2" element={<Sobre />} />
       <Route path="/contato" element={<Contato />} />
       <Route path="/produto" element={<Produto />} />
     </Routes>
